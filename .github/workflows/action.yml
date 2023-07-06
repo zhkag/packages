@@ -16,4 +16,4 @@ on:
 jobs:
 
   pkgs-test:
-    uses: zkos/pkgs-test/.github/workflows/pkgs-action.yml@main
+    uses: RT-Thread/pkgs-test/.github/workflows/pkgs-action.yml@main
